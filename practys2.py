@@ -2314,7 +2314,7 @@ from multiprocessing import Process, cpu_count
 
 
 
-from tkinter import *
+#from tkinter import *
 
 
 #label = an area widget that holds text and/or an image wihin a window 
@@ -2358,6 +2358,51 @@ from tkinter import *
 
 
 #window.mainloop()
+
+
+
+
+#69 (06:24:24​) buttons 🛎️
+
+
+
+
+
+#from tkinter import *
+
+
+
+#count = 0
+
+#def click(): 
+    #print("you click the button")
+    #global count
+    #count +=1
+    #print(count)
+
+
+
+# button = you click it, then it does stoff
+
+#window = Tk()
+#photo = PhotoImage(file="//Users//morningstar//Pictures//ronnie colmen2.png")
+
+
+#button = Button(window, text ="click me",command=click, 
+                #font=("Comic Sans", 30), fg="#B940D4",
+                #bg = "1A18BF",
+                #activeforeground="#B940D4",
+                #activebackground="1A18BF",
+                #state= ACTIVE,
+                #image=photo,
+                #compound="bottom")
+
+
+#button.pack()
+
+#window.mainloop()
+
+
 
 
 
