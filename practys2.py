@@ -2270,12 +2270,9 @@ import time
 
 
 
-
-
-
 #def timer():
     #print()
-
+    #print()
     #count = 0 
     #while True:
         #time.sleep(1)
@@ -2283,37 +2280,13 @@ import time
         #print(f"Logged in for {count} seconds")
         
     
-#x = threading.Thread(target=timer,daemon = True)
+#x = threading.Thread(target=timer, daemon=True)
 #x.start()
 
 #x.setDaemon(True)
-#x.isDaemon()
+#print(x.isDaemon())
 
 #answer = input("Do you wish to exist?")
-
-
-
-
-
-
-
-# (05:58:19​) multiprocessing ⚡
-
-
-
-
-# Python multiprocessing 
-
-
-# multiprocessing = running task in parellel on different cpu
-#                   corpes, bypasses GIL used for threading
-#                 = better for cpu bound tasks (heavy cpu usage)
-#                 = better for io bound tasks (waiting around) 
-      
-
-    
-
-
 
 
 
@@ -2338,8 +2311,6 @@ from multiprocessing import Process, cpu_count
 
 #if __name__ == "__main__":
     #main()
-
-
 
 
 
