@@ -2314,6 +2314,24 @@ from multiprocessing import Process, cpu_count
 
 
 
+from tkinter import *
+
+
+#label = an area widget that holds text and/or an image wihin a window 
+
+
+#window = Tk() #instation an instance of a window
+#window.geometry("420x420")
+#window.title("Jarvis first GUI program")
+
+#icon = PhotoImage(file= "/Users/morningstar/Pictures/johny.jpg")
+#window.iconphoto(True,icon)
+#window.config(background="black")
+
+#window.mainloop()  #place window on computer screen. listen for events
+
+
+
 
 
 
