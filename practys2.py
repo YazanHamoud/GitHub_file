@@ -2458,6 +2458,42 @@ from multiprocessing import Process, cpu_count
 
 
 
+#71 (06:40:15​) checkbox ✔️
+
+#from tkinter import *
+
+
+
+#def display():
+    #if(x.get()==1):
+        #print("you agree")
+    #else:
+        #print("you dont agree")
+
+
+#window = Tk()
+#x = IntVar()
+
+#Python_photo = PhotoImage(file= "/Users/morningstar/Downloads/python_photo_image.png")
+
+#check_button = Checkbutton(window, text="I agree to something",
+                           #variable=x,
+                           #onvalue=1,
+                           #offvalue=0,
+                           #command=display,
+                           #font=("Arial",20),
+                           #foreground="#00FF00",
+                           #background="black",
+                           #activebackground="black",
+                           #activeforeground="#00FF00",
+                           #padx=25, pady=10,
+                           #image=Python_photo,
+                           #compound="left")
+
+
+#check_button.pack()
+#window.mainloop()
+
 
 
 
