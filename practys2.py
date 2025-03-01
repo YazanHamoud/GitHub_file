@@ -2405,6 +2405,59 @@ from multiprocessing import Process, cpu_count
 
 
 
+#70 (06:30:44​) entrybox ⌨️
+
+
+
+
+#from tkinter import *
+
+
+
+# netry widget = textbox that accepts a single line 
+#                of user input
+
+
+#def sumbit():
+    #username = entry.get()
+    #print(f"Hallo {username}")
+    #entry.config(state=DISABLED)
+
+#def delete():
+    #entry.delete(0,END)
+
+#def backspace():
+    #entry.delete(len(entry.get())-1,END)
+
+#window = Tk()
+
+
+#entry = Entry(window, font=("Arial",50), background="#FCC203",
+              #foreground="#03FCF8",
+              #show="*")
+#etnry.insert(0,"spongbob")
+#entry.pack(side=LEFT)
+
+
+#sumbit_button = Button(window,text="sumbit", command=sumbit)
+#sumbit_button.pack(side=RIGHT)
+
+#delet_button = Button(window,text="delete", command=delete)
+#delet_button.pack(side=RIGHT)
+
+
+#backspace_button = Button(window,text="backspace", 
+                          #command=backspace)
+#backspace_button.pack(side=RIGHT)
+
+
+#window.mainloop()
+
+
+
+
+
+
 
 
 
