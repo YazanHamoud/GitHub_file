@@ -2497,4 +2497,52 @@ from multiprocessing import Process, cpu_count
 
 
 
+#72 (06:49:08​) radio buttons 🔘
+
+
+
+# radio button = similar to checkbox, but you can only select one
+#                a group 
+
+
+#from tkinter import *
+
+
+#food = ["pizza", "hamburger","hotdog"]
+#window = Tk()
+#x = IntVar()
+
+#def order():
+    #if(x.get()==0):
+        #print("You ordered pizza")
+    #elif(x.get()==1):
+        #print("you ordered a hamburger")
+    #elif(x.get()==2):
+        #print("you ordered a hotdog")
+    #else:
+        #print("huh?")
+        
+    
+#for index in range(len(food)):
+    #radiobutton = Radiobutton(window,
+                              #text=food[index], #adds text to radio buttons
+                              #variable = x, #groups radiobuttons together if they share the same variable
+                              #value=index,
+                              #padx= 25, #adds padding on x-axis
+                              #font=("Impact",50),
+                              #indicatoron=0, #eliminate circle indicators
+                              #width=375,#sets width of radio buttons
+                              #command=order #sets command of radiobutton to function
+                              #)
+    #radiobutton.pack(anchor=W)
+
+
+#window.mainloop()
+
+
+
+
+
+
+
 
