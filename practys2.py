@@ -2542,6 +2542,62 @@ from multiprocessing import Process, cpu_count
 
 
 
+#73 (07:00:47​) scale 🌡️
+
+
+#from tkinter import *
+
+
+#def sumbitt():
+    #print(f"tempuratur in {scale.get()} C˚")
+
+
+
+
+#window = Tk()
+
+#hot_image = PhotoImage(file= "/Users/morningstar/Downloads/flame_image3.png")
+#hot_label = Label(image=hot_image)
+#hot_label.pack()
+
+#scale = Scale(window,from_= 100,
+              #to = 0,
+              #length=600,
+              #orient=VERTICAL, # orientation of the scale
+              #font=("Consolas",20),
+              #tickinterval=10, # adds numeric indicators for value
+              #showvalue=0, #hide current value
+              #resolution=5, #increment of slider
+              #troughcolor="#69EAFF",
+              #foreground="#FF1C00",
+              #background="#111111",)
+
+#scale.set((scale["from"]-scale["to"])/2) # set current value of slider
+#scale.pack()
+
+#cold_image = PhotoImage(file= "/Users/morningstar/Downloads/ice_image.png")
+#cold_label = Label(image=cold_image)
+#cold_label.pack()
+
+#button = Button(window, text="Sumbit",command=sumbitt)
+#button.pack()
+
+#window.mainloop()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
