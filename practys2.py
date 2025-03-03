@@ -2660,6 +2660,58 @@ from multiprocessing import Process, cpu_count
 
 
 
+#75 (07:24:41​) messagebox 💭
+
+#from tkinter import *
+#from tkinter import messagebox # import massegebox library
+
+
+#def click():
+    #messagebox.showinfo(title="this is an info message box", 
+                        #message="you are a person")
+    #while(True):
+        #messagebox.showwarning(title="WARNING", message="you have a VIRUS!")
+    #messagebox.showerror(title= "ERROR",message="something went wrong!")
+    #if messagebox.askokcancel(title = "ask ok cancel",message="do you want to do the thing?: "):
+        #print("you did the thing")
+    #else:
+        #print("you canceled a thing")
+    #if messagebox.askretrycancel(title="ask ok cancel",message="you want to retry the thing"):
+        #print("retried the thing")
+    #else:
+        #print("you canceled a thing")
+    
+    #if messagebox.askyesno(title="ask yes or no", message="do you like cake"):
+        #print("i like cake too")
+    #else:
+        #print("you dont like a cake")
+        
+        
+    #answer = (messagebox.askquestion(title="do ask quastion",message="do you like pie"))
+    #if(answer) == "yes":
+        #print("you like pie")
+    #else:
+        #print("you dont like pie")
+    #answer = messagebox.askyesnocancel(title="yes no cancel",message="do you like to code?: ",icon = "info")
+    #if(answer== True):
+        #print("you like to code")
+    #elif(answer) == False:
+        #print("you dont like to code")
+    #else:
+        #print("you have dodged the question")
+    
+    
+    
+#window = Tk()
+
+#button = Button(window, text = "click", command=click)
+#button.pack()
+
+
+#window.mainloop()
+
+
+
 
 
 
