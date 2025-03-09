@@ -2781,6 +2781,30 @@ from multiprocessing import Process, cpu_count
 
 
 
+#78 (07:48:38​) open a file (file dialog) 📁
+
+
+#from tkinter import *
+#from tkinter import filedialog
+
+
+#def openfile():
+    #filepath = filedialog.askopenfilename(title = "open file",
+                                          #filetypes =( ("text files","*.txt"),
+                                                      #("all files","*.*")))
+    #file = open(filepath,"r")
+    #print(file.read())
+    #file.close()
+
+#window = Tk()
+
+#button= Button(window,text = "upen file",command=openfile)
+#button.pack()
+
+#window.mainloop()
+
+
+
 
 
 
