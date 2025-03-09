@@ -2748,6 +2748,40 @@ from multiprocessing import Process, cpu_count
 
 
 
+#77 (07:43:10​) text area 📒
+
+
+#text widget = functions like a text area, you can enter multiple lines of text
+
+#from tkinter import *
+
+#def sumbitt():
+    #input = text.get("1.0",END)
+    #print(input)
+
+#window = Tk()
+
+
+#text = Text(window,
+            #bg="yellow",
+            #font=("Inc Free",25),
+            #height=8, 
+            #width=20,
+            #padx=20,
+            #pady=20,
+            #foreground="purple")
+#text.pack()
+
+#button = Button(window,text = "sumbitt",command=sumbitt)
+#button.pack()
+
+
+#window.mainloop()
+
+
+
+
+
 
 
 
