@@ -2828,7 +2828,7 @@ from multiprocessing import Process, cpu_count
     #file.close()
 
 
-#window= Tk()
+#window = Tk()
 #button = Button(window, text="save",command=savefile)
 #button.pack()
 
@@ -2837,6 +2837,73 @@ from multiprocessing import Process, cpu_count
 
 
 #window.mainloop()
+
+
+
+
+
+
+
+#80 (08:05:17​) menubar 🧾
+
+
+#from tkinter import *
+
+
+
+#def open():
+    #print("file has been opened")
+    
+
+
+#def savefile():
+    #print("file has been saved")
+    
+
+#def copy():
+    #print("you have copied file")
+
+#def cut():
+    #print("you cut som text")
+
+#def paste():
+    #print("you have copied file")
+
+
+
+#window = Tk()
+
+
+
+#menubar = Menu(window)
+#window.config(menubar)
+
+#filemenu = Menu(menubar,tearoff=0,font=("MV Boli",15))
+#menubar.add_cascade(Label="file",menu = filemenu)
+
+#filemenu.add_command(label= "Open",command= open)
+#filemenu.add_command(label= "Save",command= svavefile)
+
+#filemenu.add_separator()
+
+#filemenu.add_command(label= "Exit",command = quit)
+
+
+#editemenu = Menu(editbar,tearoff=0,font=("MV Boli",15))
+#editbar.add_cascade(Label="Edit",menu = editmenu)
+#editemenu.add_command(label ="copy",command = copy)
+#editemenu.add_command(label = "cut",command = cut)
+#editmenu.add_command(label ="paste",command = paste)
+
+
+
+#window.mainloop()
+
+
+
+
+
+
 
 
 
