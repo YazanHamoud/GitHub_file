@@ -2806,6 +2806,38 @@ from multiprocessing import Process, cpu_count
 
 
 
+#79 (07:55:33​) save a file (file dialog) 💾
+
+
+
+#from tkinter import *
+#from tkinter import filedialog
+
+#def savefile():
+    
+    #file = filedialog.asksaveasfile(initialdir="" ,defaultextension = ".txt",filetypes=[
+        #("text file",".txt"),("html file",".html"),("all file",".*")])
+    
+    
+    #if file is None:
+        #return
+    #filetext = text.get(1.0,END)
+    #filetext = input("Etner some text: ") //use this if you want to use console terminal
+    #file.write(filetext)
+    
+    #file.close()
+
+
+#window= Tk()
+#button = Button(window, text="save",command=savefile)
+#button.pack()
+
+#text = Text(window)
+#text.pack()
+
+
+#window.mainloop()
+
 
 
 
