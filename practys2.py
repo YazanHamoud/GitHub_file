@@ -2930,6 +2930,32 @@ from multiprocessing import Process, cpu_count
 
 
 
+#82 (08:21:30​) new windows 🗔
+
+
+#from tkinter import *
+
+#def create_window():
+    #pass
+#    new_window = Toplevel() #Toplevel() = new window "on top" of other window, linked to a "bottom" window 
+                            #Tk() = new independent window
+    #new_window = Tk()  
+    #window.destroy()         #close the old window        
+      
+        
+#window = Tk()
+
+
+#Button(window,text = "create new window",command = create_window).pack()
+
+
+
+#window.mainloop()
+
+
+
+
+
 
 
 
