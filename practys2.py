@@ -2956,7 +2956,28 @@ from multiprocessing import Process, cpu_count
 
 
 
+#83 (08:25:32​) window tabs 📑
+
+
+#from tkinter import *
+#from tkinter import ttk
+
+#window = Tk()
+
+#notebook = ttk.Notebook(window) #widget that manages a collection of windows/displays 
+
+#tab_1 = Frame(notebook) #New frame for tab_1
+#tab_2 = Frame(notebook) #New frame for tab_2
+
+#notebook.add(tab_1,text = "Tab 1")
+#notebook.add(tab_2,text = "Tab 2")
+
+#notebook.pack(expand=True,fill="both") #expand = exoand to fill any space not otherwise used
+                                       #fill = fill space on x and y axis
+#Label(tab_1,text ="Hello this is tab#1",width=50,height=25).pack()
+#Label(tab_2,text ="Hello this is tab#2",width=50,height=25).pack()
 
 
 
+#window.mainloop()
 
