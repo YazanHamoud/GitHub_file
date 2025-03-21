@@ -2981,3 +2981,54 @@ from multiprocessing import Process, cpu_count
 
 #window.mainloop()
 
+
+
+
+
+#84 (08:30:52​) grid 🏢
+
+#from tkinter import * 
+
+#grid() = geometry manager that organizes widgets in a table-like structure in parent
+
+#window = Tk()
+
+
+#titel_label= Label(window,text="Enter your info", font=("Arial",25)).grid(row=0,column=0,columnspan=2)
+#firstNameLabel = Label(window,text= "first name: ").pack()
+#firstNameLabel = Label(window,text= "first name: ",width=20,bg="red").grid(row=1,column=0)
+#firstNameEntry = Entry(window).grid(row=1,column=1)
+
+
+
+
+
+#LastNameLabel = Label(window,text= "last name: ",bg="green").grid(row=2,column=0)
+#LastNameEntry = Entry(window).grid(row=2,column=1)
+
+
+#EmailNameLabel = Label(window,text= "email adress: ",bg="blue",width=30).grid(row=3,column=0)
+
+#EmailNameEntry = Entry(window).grid(row=3,column=1)
+
+
+#sumbit_button = Button(window, text="Sumbit").grid(row=4,column=0,columnspan=2)
+
+
+#window.mainloop()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
